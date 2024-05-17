@@ -8,3 +8,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 system.out.println("this is editable");
 ```
+- [x] Life is not easy
+- [x] This item is practice
+- [ ] This is for me
